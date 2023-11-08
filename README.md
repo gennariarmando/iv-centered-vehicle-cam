@@ -1,5 +1,5 @@
 # IV Centered Vehicle Cam
-This plugin removed the off center vehicle camera in GTA IV, and makes it similar to GTA V and 3D era GTA.\
+This plugin removes the off center vehicle camera in GTA IV, and makes it similar to GTA V and 3D era GTA.\
 \
 For GTAIV The Complete Edition Only.
 
